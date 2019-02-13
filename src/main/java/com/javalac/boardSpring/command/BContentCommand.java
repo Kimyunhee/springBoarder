@@ -11,7 +11,7 @@ public class BContentCommand implements BCommand {
 		
 		
 		Map<String, Object> map = model.asMap();
-		System.out.println("git 커밋");
+		
 
 	}
 
